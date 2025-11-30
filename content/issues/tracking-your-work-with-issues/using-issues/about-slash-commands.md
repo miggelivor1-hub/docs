@@ -1,4 +1,4 @@
----
+HonorX5
 title: About slash commands
 intro: 'Slash commands can save you time by reducing the typing required to create complex Markdown.'
 versions:
